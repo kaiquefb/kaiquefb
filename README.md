@@ -1,6 +1,9 @@
 ### Olá!!! Eu sou o Kaique Fernando Batista 👋
-
 - 🌱 Estudando front-end
+
+<br>
+
+![Kaiquefb GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquefb&show_icons=true&theme=highcontrast)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,3 +26,4 @@
   <a href = "mailto:kaique.fernando.b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
