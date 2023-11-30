@@ -1,5 +1,5 @@
 ### Olá!!! Eu sou o Kaique Fernando Batista 👋
-- 🌱 Estudando front-end
+- 🌱 Estudando JavaScript
 
 <br>
 
