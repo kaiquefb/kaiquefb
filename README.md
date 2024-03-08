@@ -42,7 +42,10 @@
 ###
 
 <div align="left">
-  <a href="contato@ikaique.com.br" target="_blank">
+  <a href="https://www.ikaique.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=website&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <a href="mailto:contato@ikaique.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kaique-fernando-batista-931045200/" target="_blank">
@@ -50,9 +53,6 @@
   </a>
   <a href="https://discordapp.com/users/kaiquefb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.ikaique.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=website&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
 
