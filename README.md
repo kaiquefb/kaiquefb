@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">🌱 Estudando e praticando :)</p>
-
-###
-
-<h3 align="left">🔥   Meus Status :</h3>
+<h3 align="left">🔥   Meus Status:</h3>
 
 ###
 
@@ -14,6 +10,7 @@
   <img src="https://streak-stats.demolab.com?user=kaiquefb&locale=pt-br&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif"  />
